@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df9bd369-7a03-476d-9611-b322420b4293" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/controller/StudentController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/controller/StudentController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/model/Skill.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/model/Skill.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/model/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/model/Student.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/model/Students.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/model/Students.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/repository/StudentRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/repository/StudentRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/kotlin/com/ example/service/StudentService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/kotlin/com/ example/service/StudentService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin3main/src/main/resources/students.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlinba3-main/src/main/resources/students.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Kotlinba3-main">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ygNESEW4fw1lJqfySqhmQFTb4H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Kotlinba3-main.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.StudentApplicationKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Загрузочки/Kotlin3",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9bd369-7a03-476d-9611-b322420b4293" name="Changes" comment="" />
+      <created>1750252144948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750252144948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
